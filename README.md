@@ -9,13 +9,15 @@ Next, we have to run the Snake.py file which takes 2 arguments: IP Address, Port
 
 For example:
 
+### Server
+
 python Server.py 127.0.0.1 8000 2
 
-# First Client
+### First Client
 
 python Client.py 127.0.0.1 8000
 
-# Second Client
+### Second Client
 
 python Client.py 127.0.0.1 8000
 
